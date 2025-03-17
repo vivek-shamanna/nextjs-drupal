@@ -106,3 +106,7 @@ Runs the tests.
 Updates the snapshots used for the snapshot tests. The starter comes with an
 example snapshot test that may need to be updating depending on your
 configuration.
+
+### `Test commit`
+
+Just adding something
